@@ -168,8 +168,8 @@ flutter run
 
 ## 👨‍💻 Author
 
-Ahmed Refaay
-Flutter Developer
+* Ahmed Refaay
+* Flutter Developer
 
 ---
 
