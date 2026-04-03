@@ -96,33 +96,62 @@ Intro → Home → Add Habit → Track Progress → Edit/Delete → Save Locally
 
 ### 🚀 Intro Screen
 
-<p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="300" alt=""/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/Habit_Tracker_Project/main/images/intro_screen_light.jpeg" width="200" alt="Light Mode"/></td>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/Habit_Tracker_Project/main/images/intro_screen_dark.jpeg" width="200" alt="Dark Mode"/></td>
+  </tr>
+</table>
 
 ---
 
 ### 🏠 Home Screen 
 
-<p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="300" alt=""/>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/Habit_Tracker_Project/main/images/home_screen_light.jpeg" width="200" alt="Light Mode"/></td>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/Habit_Tracker_Project/main/images/home_screen_dark.jpeg" width="200" alt="Dark Mode"/></td>
+  </tr>
+</table>
 
 ---
 
 ### ➕ Add Habit
 
-<p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="300" alt=""/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/Habit_Tracker_Project/main/images/add_habit_light.jpeg" width="200" alt="Light Mode"/></td>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/Habit_Tracker_Project/main/images/add_habit_dark.jpeg" width="200" alt="Dark Mode"/></td>
+  </tr>
+</table>
 
 ---
 
 ### 📝 Habit List
 
-<p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="300" alt=""/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/Habit_Tracker_Project/main/images/habit_list_light.jpeg" width="200" alt="Light Mode"/></td>
+    <td><img src="https://raw.githubusercontent.com/Ahmed26111/Habit_Tracker_Project/main/images/habit_list_dark.jpeg" width="200" alt="Dark Mode"/></td>
+  </tr>
+</table>
 
 ---
 
